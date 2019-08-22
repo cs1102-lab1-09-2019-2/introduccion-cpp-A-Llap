@@ -1,9 +1,9 @@
 #include <iostream>
-using std::cout;
+using namespace std;
 
 int main() {
-         a = true; // declarar tipo de dato
+        auto a = true; // declarar tipo de dato
      if (a) {
-         cout << "Bien!!!";
+         cout << "Bien!!!\n";
      }
 }

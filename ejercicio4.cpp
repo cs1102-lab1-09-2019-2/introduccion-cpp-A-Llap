@@ -1,4 +1,5 @@
-
+#include <iostream>
+using namespace std;
 int main() {
     i = 1;
 
@@ -23,6 +24,6 @@ int main() {
     i--;
     cout<<"Decremento ejemplo: \n";
     cout<<"El valor de i es: "<<i<<"\n";
-
+    return 0;
 }
 
